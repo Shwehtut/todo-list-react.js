@@ -1,0 +1,29 @@
+{
+  "todoList": [
+    {
+      "id": "cbff19e8-0320-8d0f-9802-c76d74a1947b",
+      "task": "hello",
+      "complete": false
+    },
+    {
+      "id": "c8b0598d-13d8-b0ba-577e-401d5b893247",
+      "task": "writing essay",
+      "complete": false
+    },
+    {
+      "id": "2621fa17-ab67-b611-5dc5-50c8d349c2fc",
+      "task": "myanmar",
+      "complete": true
+    },
+    {
+      "id": "87ae3562-4932-6d5d-a0ae-535820266bb3",
+      "task": "writing code",
+      "complete": true
+    },
+    {
+      "id": "288e0be9-203e-4271-e7f7-93ff308e5b9f",
+      "task": "html css js",
+      "complete": true
+    }
+  ]
+}

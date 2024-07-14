@@ -1,0 +1,8 @@
+TO DO LIST
+
+*Json server (API/ CRUD=>create read update delete) 
+
+*Axios ( NPM => Official => API/ REACT / Vue /angular) 
+*(Guzzle => laravel)
+*Resource
+*Get list=> http://localhost:3300/Todo%20List
